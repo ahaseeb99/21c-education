@@ -8,9 +8,3 @@ JavaScript: Added interactive features, including dynamic content, quizzes, and 
 
 **Purpose**:
 The 21C Education project provides a research-backed teacher training model that equips educators with modern teaching strategies. By integrating educational research with practical tools, the platform supports teachers in delivering high-quality education to their students.
-
-
-👋 Hi, I’m Abdul Haseeb Q. a.k.a twistyBRAT 鬼 ];) - https://github.com/ahaseeb99 
-👀 Just a devious boring typical guy skilled Front End Development | Web Development & Design | HTML & CSS | SASS | Bootstrap | JavaScript | WordPress Development | Googling | Tech Enthusiast | Learning Enthusiast & likes Anime + Manga + Comics + Gaming + Weird things and a lot of Music 🙀👽 
-💞️ I’m looking to collaborate on many things with you people ❤ 
-📫 You can reach me at a.haseeb199@gmail.com | https://www.facebook.com/twistyBRATVA | https://www.linkedin.com/in/abdul-haseeb-qamar/ | https://www.instagram.com/abdul_haseeb_qamar | https://linktr.ee/twistyBRAT?subscribe
